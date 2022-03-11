@@ -101,16 +101,25 @@
 
 .privacy-content, .verification-content,
 .community-content, .endtoendpolicy-content,
-.termsandcondition-content{
+.termsandcondition-content, .contact-content{
   background-color: #F3F3F3;
 }
 
 .privacy-header, .verification-header,
 .community-header, .endtoendpolicy-header,
-.termsandcondition-header{
+.termsandcondition-header, .contactus-header{
   font-family: Poppins;
   font-weight: 500;
   font-size: 36px;
   margin-top: 70px;
   margin-bottom: 50px;
+}
+
+.contact-item{
+  background-color: white;
+  width: 300px;
+  margin-left: 110px;
+  border-radius: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }

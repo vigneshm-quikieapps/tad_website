@@ -99,11 +99,11 @@
   border-radius: 10px;
 }
 
-.privacy-content{
+.privacy-content, .verification-content{
   background-color: #F3F3F3;
 }
 
-.privacy-header{
+.privacy-header, .verification-header{
   font-family: Poppins;
   font-weight: 500;
   font-size: 36px;

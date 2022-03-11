@@ -1,4 +1,5 @@
 import './App.css';
+import Desktop12AboutTAD from './Desktop12AboutTAD';
 import Desktop1MainContent from './Desktop1MainContent';
 import Desktop3PrivacyPolicy from './Desktop3PrivacyPolicy';
 import Desktop4VerificationPolicy from './Desktop4VerificationPolicy';
@@ -20,7 +21,8 @@ function App() {
       {/* <Desktop5CommunityGuidelinePolicy /> */}
       {/* <Desktop6EndtoEndPolicy /> */}
       {/* <Desktop8TermsandCondition /> */}
-      <Desktop7ContactUs />
+      {/* <Desktop7ContactUs /> */}
+      <Desktop12AboutTAD />
       {/* <Footer /> */}
     </div>
   );

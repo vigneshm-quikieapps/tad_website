@@ -101,13 +101,15 @@
 
 .privacy-content, .verification-content,
 .community-content, .endtoendpolicy-content,
-.termsandcondition-content, .contact-content{
+.termsandcondition-content, .contact-content,
+.about-content{
   background-color: #F3F3F3;
 }
 
 .privacy-header, .verification-header,
 .community-header, .endtoendpolicy-header,
-.termsandcondition-header, .contactus-header{
+.termsandcondition-header, .contactus-header,
+.about-header{
   font-family: Poppins;
   font-weight: 500;
   font-size: 36px;
@@ -122,4 +124,68 @@
   border-radius: 30px;
   margin-top: 20px;
   margin-bottom: 10px;
+}
+
+.about-subcontent{
+  background-color: chartreuse;
+  width: 96%;
+  margin-left: 10px;
+  border-radius: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height: 100px;
+}
+
+.about-subcontent-1{
+  background-color: coral;
+  width: 96%;
+  margin-left: 10px;
+  border-radius: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height: 100px;
+}
+
+.about-subcontent-2{
+  background-color: black;
+  color: white;
+  width: 96%;
+  margin-left: 10px;
+  border-radius: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height: 100px;
+  font-family: 'Audiowide';
+}
+
+.about-subcontent-3{
+  background-color: black;
+  color: white;
+  width: 55%;
+  margin-left: 110px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height: 40px;
+}
+
+.about-subcontent-4{
+  display: flex;
+  margin-left: 60px;
+}
+
+.person{
+  background-color: aqua;
+  height: 80px;
+  width: 90px;
+  margin-left: 20px;
+  border-radius: 15px;
+}
+
+.Bio-text{
+  color: #9E03FD;
+}
+
+.parent-bio{
+  width: 136px;
 }
